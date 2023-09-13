@@ -23,7 +23,7 @@ Incertezas imprevistas são eventos que você não pode antecipar ou que você c
 
 ### Testes de unidade / integração
 
-<p>**_Angular Testing Library_** é uma biblioteca da família [DOM Testing Library](https://testing-library.com/docs/dom-testing-library/intro) que tem como propósito oferecer uma abstração para testarmos componentes de UI de uma maneira mais voltada para o usuário.</p> 
+Angular Testing Librar é uma biblioteca da família DOM Testing Library (https://testing-library.com/docs/dom-testing-library/intro) que tem como propósito oferecer uma abstração para testarmos componentes de UI de uma maneira mais voltada para o usuário.</p> 
 <p>Usando o framework de teste Jasmine e o Angular Testing Library, pode criar testes de unidade/integração para o componente. Certifique-se de testar os diferentes cenários e manter seus testes atualizados.</p>
 
 ```
